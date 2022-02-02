@@ -4,7 +4,7 @@ package ru.itsjava.oop.oopHW2.figure;
 public class Circle extends Figure{
 
     public final String name;
-    public final static double PI = 3.14;
+//    public final static double PI = 3.14;
     public int radius;
 
     public Circle(String name, int radius) {
